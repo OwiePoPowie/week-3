@@ -51,3 +51,6 @@ h1 {
 .col-12 {
 	width: 100%;
 }
+.reading-area {
+	overflow: auto;
+}
