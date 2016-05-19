@@ -55,7 +55,7 @@ h1 {
 	overflow: auto;
 }
 //media queries
-@media only screen and (max-width:300px) {
+@media only screen and (max-width:700px) {
 	p {
 		background-color: blue;
 	}
