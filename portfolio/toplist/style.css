@@ -9,6 +9,9 @@
 	display: -webkit-flex;
 	display: flex;
 }
+.title{
+	background-color:#33BEBE;
+}
 .decription{
 	color:red;
 	max-width: 705;
