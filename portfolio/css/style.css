@@ -1,10 +1,12 @@
+* {
+	font-family: 'Lato', sans-serif;
+	color: #bf3efc;
+}
 .main-box {
 	background-color: #00defd;
 }
 .featured-work{
 	border: 1px;
-	color: #bf3efc;
-	font-family: 'Lato', sans-serif;
 	margin: 15px;
 }
 hr {
