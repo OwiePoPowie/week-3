@@ -1,0 +1,12 @@
+.main-box {
+	background-color: #00defd;
+}
+.featured-work{
+	border: 1px;
+	color: #bf3efc;
+	font-family: 'Roboto', sans-serif;
+	margin: 15px;
+}
+.pic {
+	padding: 100px;
+}
