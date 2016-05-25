@@ -2,13 +2,22 @@ body {
 	font-family: 'Lato', sans-serif;
 	color: #bf3efc;
 }
+.title-logo{
+	margin: 20px;
+}
+.title-super{
+	font-size: 60px;
+}
+.text-muted {
+	color: #BCBBBB;
+}
+.text-thin {
+	font-weight: 100;
+}
+.thick {
+	height: 2px;
+	background-color: #BCBBBB;
+}
 .main-box {
-	background-color: #00defd;
-}
-.featured-work{
-	border: 1px;
-	margin: 15px;
-}
-hr {
-	font-weight: bold;
+	background-color: #BCBB;
 }
